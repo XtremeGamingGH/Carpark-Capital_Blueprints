@@ -10,7 +10,7 @@
 
 - [ ] `.cpbp`-Datei hinzugefügt / Blueprint file added
 - [ ] Vorschaubild hinzugefügt / Preview image added
-- [ ] README-Vorlage ausgefüllt / README template completed
+- [ ] (Template-Blueprints_README/) ausgefüllt / (Template-Blueprints_README/) completed
 - [ ] Blueprint im Spiel getestet / Tested in game
 - [ ] Keine unerlaubten Inhalte / No unauthorized content
 
