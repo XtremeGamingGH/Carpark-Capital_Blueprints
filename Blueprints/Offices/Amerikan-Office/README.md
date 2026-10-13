@@ -1,3 +1,5 @@
+**Language / Sprache:** [🇬🇧 English](#-english) | [🇩🇪 Deutsch](#-deutsch)
+
 # [Amerikan-Office]
 
 ![Blueprint Preview](preview.png)
