@@ -45,7 +45,7 @@ Bilder der Stockwerke
 ### Hinweise
 
 Beim Einfügen kann es dazu kommen, das die Shuttleservice Fahrzeuge keine Route anzeigen.
-Hier den Fahrzeugen einen Wegpunkt geben, danach sollte alle wieder funktionieren. 
+Hier den Fahrzeugen einen Wegpunkt geben, danach sollte alles wieder funktionieren. 
 
 ---
 
