@@ -26,6 +26,8 @@ Bilder der Stockwerke
 
 ![Stockwerk2](floor-2.png)
 
+![Stockwerk3](floor-3.png)
+
 ## Parkhaus in Aktion
 
 ![Parkhaus](in-Aktion.png)
@@ -65,9 +67,11 @@ A multi-story parking garage with integrated office spaces and a modern facade.
 
 Images of the different floors
 
-![Floor 1](floor-1.png)
+![Floor1](floor-1.png)
 
-![Floor 2](floor-2.png)
+![Floor2](floor-2.png)
+
+![Floor3](floor-3.png)
 
 ## Parking Garage in Action
 
