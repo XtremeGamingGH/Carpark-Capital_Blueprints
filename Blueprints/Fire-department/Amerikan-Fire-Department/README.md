@@ -20,7 +20,7 @@ Feuerwehr in einem Amerikanischen NewYork inspiriertem Gebäude
 
 Bilder der Stockwerke
 
-![Stockwerk1](floor-1.png)
+![Stockwerk1](floor1.png)
 
 ### In-Action
 
@@ -59,7 +59,7 @@ A fire department housed in an American-style building inspired by the classic f
 
 Floor images
 
-![Floor 1](floor-1.png)
+![Floor 1](floor1.png)
 
 ### In Action
 
