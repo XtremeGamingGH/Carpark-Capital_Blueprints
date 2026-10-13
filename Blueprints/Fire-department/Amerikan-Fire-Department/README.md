@@ -1,3 +1,5 @@
+**Language / Sprache:** [🇬🇧 English](#-english) | [🇩🇪 Deutsch](#-deutsch)
+
 # [Fire-Department-Amerikan]
 
 ![Blueprint Preview](preview.png)
