@@ -29,7 +29,7 @@ Bilder der Stockwerke
 
 ### Download
 
-**[Blueprint herunterladen](Gebäudename.cpbp)**
+!**[Blueprint herunterladen](Gebäudename.cpbp)**
 
 ### Hinweise
 
@@ -64,7 +64,7 @@ Pictures from Floors
 
 ### Download
 
-**[Download Blueprint](Buildingname.cpbp)**
+!**[Download Blueprint](Buildingname.cpbp)**
 
 ### Notes
 
