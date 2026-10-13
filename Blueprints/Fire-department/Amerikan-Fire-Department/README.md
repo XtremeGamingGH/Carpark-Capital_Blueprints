@@ -36,7 +36,7 @@ Nach dem Setzten müssen die Wegpunkte noch manuell gesetzt werden
 
 ---
 
-# [Blueprint Name]
+# [Fire-Department-Amerikan]
 
 ![Blueprint Preview](preview.png)
 
