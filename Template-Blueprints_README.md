@@ -1,4 +1,5 @@
 # [Name des Blueprints / Blueprint Name]
+[🇬🇧 English](#-english) | [🇩🇪 Deutsch](#-deutsch)
 
 ![Blueprint Preview](preview.png)
 
