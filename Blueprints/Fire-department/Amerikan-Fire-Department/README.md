@@ -1,31 +1,28 @@
-# [Name des Blueprints / Blueprint Name]
+# [Fire-Department-Amerikan]
 
 ![Blueprint Preview](preview.png)
 
 ## 🇩🇪 Deutsch
 
 ### Beschreibung
-Beschreibe hier dein Gebäude. Was hast du gebaut und was macht es besonders?
-
-**Beispiel:** Ein mehrstöckiges Parkhaus mit integrierten Büroarbeitsplätzen und moderner Fassade.
+Feuerwehr in einem Amerikanischen NewYork inspiriertem Gebäude
 
 ### Gebäudeinformationen
 
 | Eigenschaft | Angaben |
 |---|---|
-| Ersteller | [GitHub-Benutzername] |
+| Ersteller | [XtremeGamingGH] |
 | Gebäudetyp | [Fire-Department] |
 | Größe | [7 x 8] |
 | Baukosten | [7445,5] |
-| Besonderheiten | [z. B. integrierter Radio-Propagandasender] |
 
 ### Bilder
 
 Bilder der Stockwerke
 
-![Stockwerk1](Floor-1.png)
+![Stockwerk1](floor-1.png)
 
-In-Action
+### In-Action
 
 ![Stockwerk1](in-Aktion.png)
 
@@ -35,39 +32,43 @@ In-Action
 
 ### Hinweise
 
-Beschreibe hier die möglichen Besonderheiten, Einschränkungen oder bekannte Probleme.
+Nach dem Setzten müssen die Wegpunkte noch manuell gesetzt werden
 
 ---
+
+# [Blueprint Name]
+
+![Blueprint Preview](preview.png)
 
 ## 🇬🇧 English
 
 ### Description
-Describe your building here. What did you create, and what makes it special?
 
-**Example:** A multi-story parking garage with integrated office workspaces and a modern facade.
+A fire department housed in an American-style building inspired by the classic fire stations of New York City.
 
 ### Building Information
 
 | Property | Details |
 |---|---|
-| Creator | [GitHub username] |
-| Building Type | [Parking Garage / Office / Other] |
-| Size | [Width × Length × Height] |
-| Construction Cost | [In-game cost] |
-| Features | [e.g. integrated radio propaganda station] |
+| Creator | XtremeGamingGH |
+| Building Type | Fire Department |
+| Size | 7 x 8 |
+| Construction Cost | 7,445.50 |
 
-### Pictures
+### Images
 
-Pictures from Floors
+Floor images
 
-![Floor1](Floor-1.png)
+![Floor 1](floor-1.png)
 
-![Floor2](Floor-2.png)
+### In Action
+
+![Fire Department in Action](in-Aktion.png)
 
 ### Download
 
-**[Download Blueprint](Buildingname.cpbp)**
+**[Download Blueprint](Fire-department.cpbp)**
 
 ### Notes
 
-Describe any special features, limitations, or known issues here.
+After placing the blueprint, the waypoints must be set manually.
