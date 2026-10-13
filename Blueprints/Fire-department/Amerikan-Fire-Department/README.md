@@ -28,7 +28,7 @@ Bilder der Stockwerke
 
 ### Download
 
-**[Blueprint herunterladen](Fire-department.cpbp)**
+**[Blueprint herunterladen](Fire-department-1.cpbp)**
 
 ### Hinweise
 
@@ -67,7 +67,7 @@ Floor images
 
 ### Download
 
-**[Download Blueprint](Fire-department.cpbp)**
+**[Download Blueprint](Fire-department-1.cpbp)**
 
 ### Notes
 
