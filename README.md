@@ -1,8 +1,8 @@
-# Car Park Capital – Community Blueprints
+# Car Park Capital – Blueprints
 
 **Language / Sprache:** [🇬🇧 English](#-english) | [🇩🇪 Deutsch](#-deutsch)
 
-Welcome to a collection for **Car Park Capital**!
+Welcome to my collection for **Car Park Capital**!
 
 Discover, download and build custom buildings.
 
@@ -71,17 +71,9 @@ No mods or additional software required!
 
 ---
 
-### Contribute
-
-Have you built something interesting in Car Park Capital?
-
-Share your creations with the community! Contributions can be submitted through GitHub Pull Requests.
-
----
-
 ## 🇩🇪 Deutsch
 
-Willkommen zu einer **Car Park Capital Blueprint-Sammlung**!
+Willkommen zu meiner **Car Park Capital Blueprint-Sammlung**!
 
 Entdecke selbst erstellte Gebäude und baue Sie in deinem Spiel.
 
@@ -143,14 +135,6 @@ Kopiere die heruntergeladene `.cpbp`-Datei in den passenden Parkhaus-Ordner.
 Fertig! Keine Mods oder zusätzliche Programme erforderlich!
 
 **Wichtig:** Spielupdates können sich auf eigene Blueprint-Dateien auswirken. Bewahre deshalb am besten eine Sicherung deiner heruntergeladenen Blueprints auf.
-
----
-
-### Eigene Blueprints teilen
-
-Du hast selbst ein interessantes Gebäude gebaut?
-
-Dann teile deine Kreationen gerne mit der Community! Über GitHub Pull Requests kannst du eigene Blueprints zur Sammlung beitragen.
 
 ---
 
