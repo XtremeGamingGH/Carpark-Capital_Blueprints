@@ -20,7 +20,7 @@ Explore a growing collection of blueprints.
 
 Here’s an example.
 
-![Parking Garage with Office](Blueprints/Parking/Parking-Garage-with-Office/Preview.png)
+![Parking Garage with Office](Blueprints/Parking/Parking-Garage-with-Office/in-Aktion.png)
 
 A custom-built parking garage with an integrated office building featuring three levels.
 
@@ -95,7 +95,7 @@ Hier findest du alle verfügbaren Gebäude, übersichtlich nach Kategorien sorti
 
 Hier ein Beispiel.
 
-![Parkhaus mit Bürogebäude](Blueprints/Parking/Parking-Garage-with-Office/Preview.png)
+![Parkhaus mit Bürogebäude](Blueprints/Parking/Parking-Garage-with-Office/in-Aktion.png)
 
 Ein selbst erstelltes Parkhaus mit integriertem Bürogebäude und insgesamt drei Ebenen.
 
