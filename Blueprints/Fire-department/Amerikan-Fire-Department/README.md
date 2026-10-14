@@ -34,7 +34,7 @@ Bilder der Stockwerke
 
 ### Hinweise
 
-Nach dem Setzten müssen die Wegpunkte noch manuell gesetzt werden
+Nach dem setzen müssen die Wegpunkte noch manuell vergeben werden.
 
 ---
 
